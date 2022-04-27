@@ -9,4 +9,3 @@ dependencies:
   - traitlets
   - bqplot=0.12.30
   - bokeh
-  - json
